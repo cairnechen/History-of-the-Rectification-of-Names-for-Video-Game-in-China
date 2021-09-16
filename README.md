@@ -5,6 +5,7 @@
 日期 | 媒体平台 | 人物 | 事件
 ------------ | ------------- | ------------- | -------------
 2000年5月9日 | 光明日报 | 夏斐 | [电脑游戏 瞄准孩子的“电子海洛因”](https://www.gmw.cn/01gmrb/2000-05/09/GB/05%5E18415%5E0%5EGMA2-013.htm)
+2000年6月12日 | 文化部等 | - | [关于开展电子游戏经营场所专项治理的意见](http://www.gov.cn/gongbao/content/2000/content_60240.htm)
 2008年7月2日 | CCTV12-第一线 | 杨永信 | [【视频】战网瘾•战网魔](https://www.bilibili.com/video/BV1Xs41167Kv/)
 2009年7月17日 | CCTV2-经济半小时 | 陶宏开 | [【视频】争议“魔兽停服”](https://cdnsrc.v.cctv.com/flash/media/jingjibanxiaoshi/2009/07/jingjibanxiaoshi_h264418000nero_aac32_20090717_1247842795195-5.mp4)
 2009年7月24日 | 新浪博客 | 陶宏开 | [ 精 神 毒 品——铁 证 如 山(一)](http://blog.sina.com.cn/s/blog_4b0c914f0100e4jd.html)
