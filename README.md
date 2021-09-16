@@ -15,6 +15,7 @@
 2019年1月25日 | 春城晚报 | 戴信鑫 | [《关于禁止精神鸦片网络游戏的提案》和《关于夜间11点30分至凌晨5点强制性隐屏网络游戏请求人大立法的提案》](http://ccwb.yunnan.cn/html/2019-01/25/content_1263748.htm?div=-1)
 2020年5月25日 | 齐鲁网 | 张武宗 | [建议孩子上课时间关闭网络游戏服务](http://sd.iqilu.com/articlePc/detail/6821660.html)
 2021年8月3日 | 经济参考报 | 王恒涛、汪子旭 | [【版面】“精神鸦片”竟长成数千亿产业](http://dz.jjckb.cn/www/pages/webpage2009/html/2021-08/03/node_5.htm)<br/>[【原文存档】](https://web.archive.org/web/20210803015523/http://www.jjckb.cn/2021-08/03/c_1310104012.htm)
+2021年3月3日 | 广州日报 | 林勇 | [对于成年玩家，规定在工作日期间，凌晨2点至早上8点，游戏企业必须关闭服务器，禁止对成年玩家提供相关服务](https://www.gzdaily.cn/amucsite/web/index.html#/detail/1506072)
 2021年4月2日 | 教育部 | - | [每日22:00到次日8:00不得为未成年人提供游戏服务](http://www.moe.gov.cn/jyb_xwfb/xw_fbh/moe_2606/2021/tqh/sfcl/202104/t20210402_524051.html)
 2021年8月30日 | 国家新闻出版署 | - | [所有网络游戏企业仅可在周五、周六、周日和法定节假日每日20时至21时向未成年人提供1小时网络游戏服务](http://www.nppa.gov.cn/nppa/contents/279/98792.shtml)
 2021年9月14日 | 北京晚报 | 张群琛 | [【版面】主机游戏不限时，单机游戏缺监管，小玩家们真会钻空子](https://bjrbdzb.bjd.com.cn/bjwb/mobile/2021/20210914/20210914_m.html#page20)<br/>[【原文】](https://bjrbdzb.bjd.com.cn/bjwb/mobile/2021/20210914/20210914_022/content_20210914_022_1.htm#page20?digital:newspaperBjwb:AP6140418fe4b0637be8d290dc)
