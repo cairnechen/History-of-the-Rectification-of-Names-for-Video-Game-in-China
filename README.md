@@ -13,6 +13,7 @@
 2018年3月10日 | 未来网 | 胡万宁 | [“网络游戏是精神毒品，就得一棒子打死，否则早晚都得死灰复燃。”](http://news.k618.cn/dj/201803/t20180310_15481606.html)
 2018年2月7日 | 新华社 | 袁汝婷、苏晓洲 | [网络“死亡游戏”真实上演——青少年沉迷暴力电子游戏调查](http://www.xinhuanet.com/2018-02/07/c_1122383515.htm)
 2021年8月3日 | 经济参考报 | 王恒涛、汪子旭 | [【版面】“精神鸦片”竟长成数千亿产业](http://dz.jjckb.cn/www/pages/webpage2009/html/2021-08/03/node_5.htm)<br/>[【原文存档】](https://web.archive.org/web/20210803015523/http://www.jjckb.cn/2021-08/03/c_1310104012.htm)
+2021年8月30日 | 国家新闻出版署 | - | [国家新闻出版署关于进一步严格管理切实防止未成年人沉迷网络游戏的通知](http://www.nppa.gov.cn/nppa/contents/279/98792.shtml)
 2021年9月14日 | 北京晚报 | 张群琛 | [【版面】主机游戏不限时，单机游戏缺监管，小玩家们真会钻空子](https://bjrbdzb.bjd.com.cn/bjwb/mobile/2021/20210914/20210914_m.html#page20)<br/>[【原文】](https://bjrbdzb.bjd.com.cn/bjwb/mobile/2021/20210914/20210914_022/content_20210914_022_1.htm#page20?digital:newspaperBjwb:AP6140418fe4b0637be8d290dc)
 
 This work is licensed under a
