@@ -9,6 +9,7 @@
 20051123 | 人民网 | 中国青少年网络协会 | [【原文存档】《中国青少年网瘾报告》](https://web.archive.org/web/20120606041032/http://theory.people.com.cn/GB/49157/49166/3882411.html)
 20080702 | CCTV12-第一线 | 杨永信 | [【视频】战网瘾•战网魔](https://www.bilibili.com/video/BV1Xs41167Kv/)
 20090717 | CCTV2-经济半小时 | 陶宏开 | [【视频】争议“魔兽停服”](https://cdnsrc.v.cctv.com/flash/media/jingjibanxiaoshi/2009/07/jingjibanxiaoshi_h264418000nero_aac32_20090717_1247842795195-5.mp4)
+20080722 | 新浪博客 | 陶宏开 | [【原文存档】谁 说 网 络 游 戏 是 毒 品](https://web.archive.org/web/20090725163345/http://blog.sina.com.cn/s/blog_4b0c914f0100e3m2.html)
 20090724 | 新浪博客 | 陶宏开 | [ 精 神 毒 品——铁 证 如 山(一)](http://blog.sina.com.cn/s/blog_4b0c914f0100e4jd.html)
 20170702 | 人民网 | 余清楚、王倩 | [人民网一评《王者荣耀》：是娱乐大众还是“陷害”人生](http://opinion.people.com.cn/n1/2017/0703/c1003-29379751.html)
 20170704 | 人民网 | 董晓伟、王倩 | [人民网二评《王者荣耀》：加强“社交游戏”监管刻不容缓](http://opinion.people.com.cn/n1/2017/0704/c1003-29382531.html)
