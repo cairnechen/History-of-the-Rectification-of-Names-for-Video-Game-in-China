@@ -6,7 +6,7 @@
 ------------ | ------------- | ------------- | -------------
 20000509 | 光明日报 | 夏斐 | [电脑游戏 瞄准孩子的“电子海洛因”](https://www.gmw.cn/01gmrb/2000-05/09/GB/05%5E18415%5E0%5EGMA2-013.htm)
 20000612 | 文化部等部门 | - | [关于开展电子游戏经营场所专项治理的意见](http://www.gov.cn/gongbao/content/2000/content_60240.htm)
-20051122 | 通信世界网 | [谨防网游成新时期精神鸦片](http://tech.sina.com.cn/i/2005-11-22/1734772585.shtml)
+20051122 | 通信世界网 | 杨海峰 | [谨防网游成新时期精神鸦片](http://tech.sina.com.cn/i/2005-11-22/1734772585.shtml)
 20051123 | 人民网 | 中国青少年网络协会 | [【原文存档】《中国青少年网瘾报告》](https://web.archive.org/web/20120606041032/http://theory.people.com.cn/GB/49157/49166/3882411.html)
 20080702 | CCTV12-第一线 | 杨永信 | [【视频】战网瘾•战网魔](https://www.bilibili.com/video/BV1Xs41167Kv/)
 20090717 | CCTV2-经济半小时 | 陶宏开 | [【视频】争议“魔兽停服”](https://cdnsrc.v.cctv.com/flash/media/jingjibanxiaoshi/2009/07/jingjibanxiaoshi_h264418000nero_aac32_20090717_1247842795195-5.mp4)
