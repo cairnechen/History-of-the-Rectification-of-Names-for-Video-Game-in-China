@@ -27,6 +27,7 @@
 20210803 | 经济参考报 | 王恒涛、汪子旭 | [【版面】“精神鸦片”竟长成数千亿产业](http://dz.jjckb.cn/www/pages/webpage2009/html/2021-08/03/node_5.htm)<br/>[【原文存档】](https://web.archive.org/web/20210803015523/http://www.jjckb.cn/2021-08/03/c_1310104012.htm)
 20210830 | 国家新闻出版署 | - | [所有网络游戏企业仅可在周五、周六、周日和法定节假日每日20时至21时向未成年人提供1小时网络游戏服务](http://www.nppa.gov.cn/nppa/contents/279/98792.shtml)
 20210914 | 北京晚报 | 张群琛 | [【版面】主机游戏不限时，单机游戏缺监管，小玩家们真会钻空子](https://bjrbdzb.bjd.com.cn/bjwb/mobile/2021/20210914/20210914_m.html#page20)<br/>[【原文】](https://bjrbdzb.bjd.com.cn/bjwb/mobile/2021/20210914/20210914_022/content_20210914_022_1.htm#page20?digital:newspaperBjwb:AP6140418fe4b0637be8d290dc)
+20210923 | 微信公众号 | 中国音数协游戏工委 | [坚决抵制绕过监管机智，通过境外游戏平台向国内用户提供服务](https://mp.weixin.qq.com/s/GMaQqg7F82zbutPzXOP8zw)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
